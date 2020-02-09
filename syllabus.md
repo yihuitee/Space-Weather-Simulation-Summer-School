@@ -8,7 +8,7 @@ Basic Information
 - Location: Climate and Space Research Building--Auditorium
 - Contact Information: qusai@umich.edu
 - Office Hours: Fridays 1pm-3pm, CSRB 2128
-- Course Website: http://github.com/qalshidi/programming-practices
+- Course Website: [http://github.com/qalshidi/programming-practices](http://github.com/qalshidi/programming-practices)
 
 Since this is a programming course, you are expected to bring a laptop into class.
 
@@ -42,3 +42,26 @@ Every week you will have homework you will need to submit before class in prepar
 This course is a 1 credit hour course and will only have a Pass/Fail grade. Nobody is perfect and as long as you're able to achieve 80% effort you will pass, but you should strive for 100% anyway. This means that as this is a 14 week course try not to miss more than 3 classes. You will have one homework a week so try not to miss more than 3 homeworks. You will be expected to present at least once so make sure it will happen this semester.
 
 If this might cause a problem for you or you will need accomodations please see me as soon as possible. I am invested in your success and want to see you grow as a scientist and programmer.
+
+How to Succeed in this Course
+-----------------------------
+
+Please start by sending me a short email introducing yourself to me. Things to inlude are your name, pronoun(s) and interests. This will help me cater my class time to your personalities.
+
+### Collaboration
+
+Collaboration is encouraged since learning can be enhanced by sharing that experience with others. Please realize you are expected to produce your own work by the end of the day so do not copy and paste code and the idea is to understand what your code is doing which should be the end goal.
+
+### Digital Etiquette
+
+Try to use your laptops only for course related work like coding in class or taking notes. Make sure you understand how to present with your laptop before coming to class, if you need help please let me know. You may take notes in a notebook if you are more comfortable handwriting your notes. Remember that the slides will be available after every class so spending too much time note taking might impede you from engaging fully during class time.
+
+### Accommodations for Students with Disabilities
+
+If you think you need an accommodation for a disability, please let me know at your earliest convenience. Some aspects of this course, the assignments, the in-class activities, and the way the course is usually taught may be modified to facilitate your participation and progress. As soon as you make me aware of your needs, we can work with the Services for Students with Disabilities (SSD) office to help us determine appropriate academic accommodations. SSD (734-763-3000; [http://ssd.umich.edu](http://ssd.umich.edu)) typically recommends accommodations through a Verified Individualized Services and Accommodations (VISA) form. Any information you provide is private and confidential and will be treated as such.
+
+### Student Sexual Misconduct Policy
+
+Our school is committed to fostering a safe, productive learning environment. Title IX and our school policy prohibit discrimination on the basis of sex, which regards sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking. We understand that sexual violence can undermine students’ academic success and we encourage students who have experienced some form of sexual misconduct to talk to someone about their experience, so they can get the support they need.
+
+Confidential support and academic advocacy can be found with the Sexual Assault Prevention and Awareness Center (SAPAC) on their 24-hour crisis line, 734-936-3333 and at http://sapac.umich.edu/. Alleged violations can be non-confidentially reported to the Office for Institutional Equity (OIE) at institutional.equity@umich.edu. Reports to law enforcement can be made to University of Michigan Police Department at 734-763-3434.
