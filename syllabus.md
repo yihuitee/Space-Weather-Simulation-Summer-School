@@ -10,7 +10,9 @@ Basic Information
 - Office Hours: Fridays 1pm-3pm, CSRB 2128
 - Course Website: [http://github.com/qalshidi/programming-practices](http://github.com/qalshidi/programming-practices)
 
-Since this is a programming course, you are expected to bring a laptop into class.
+This course is for intermediate coders that are in the sciences. Graduate or undergraduates welcomes. This is not a course to teach you how to code, but how to code *well*.
+
+Since this is a programming course, please bring a laptop into class.
 
 Course Description
 ------------------
@@ -25,12 +27,23 @@ Learning Objectives
 The aim of this course is to make you a strong and capable science programmer. By the end of this course:
 
 - You will develop skills to write clear and readable code.
-- You will will be able to employ programming patterns to their code.
-- You will be able to collaborate and code as a team.
+- You will will be able to employ programming patterns to your code like adding docstrings.
+- You will be able to collaborate and code as a team using git.
 - You will be able to manage your code effectively.
 - You will be able to avoid writing buggy code.
 
 Remember those points while we are learning throughout the semester.
+
+Class Structure and Teaching Methods
+------------------------------------
+
+The first half of the class will be an interactive lecture in which I will present concepts and ensure your understanding through clicker questions and discussion. The second half of the class will be working on your fellow classmates' code and a small presentation by a student showing off what you came up with.
+
+We will not have a textbook, all the material can be found on the course [github](http://github.com/qalshidi/programming-practices-for-scientists). It will include further reading, and if you want more, don't be afraid to ask me through an email or after class 😊.
+
+At first it may be difficult to show your code but the further we go with this course the stronger your confidence in your readable code.
+
+This course is programming language agnostic, your code should be readable to any programmer, examples will be in Python because I believe I can make examples easier to read with it.
 
 Assessment & Grading
 --------------------
