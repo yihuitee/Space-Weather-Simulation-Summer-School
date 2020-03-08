@@ -26,11 +26,11 @@ Learning Objectives
 
 The aim of this course is to make you a strong and capable science programmer. By the end of this course:
 
-- You will develop skills to write clear and readable code.
-- You will will be able to employ programming patterns to your code like adding docstrings.
-- You will be able to collaborate and code as a team using git.
-- You will be able to manage your code effectively.
-- You will be able to avoid writing buggy code.
+1. You will develop skills to write clear and readable code.
+2. You will will be able to employ programming patterns to your code like adding docstrings.
+3. You will be able to collaborate and code as a team using git.
+4. You will be able to manage your code effectively.
+5. You will be able to avoid writing buggy code.
 
 Remember those points while we are learning throughout the semester.
 
@@ -39,11 +39,37 @@ Class Structure and Teaching Methods
 
 The first half of the class will be an interactive lecture in which I will present concepts and ensure your understanding through clicker questions and discussion. The second half of the class will be working on your fellow classmates' code and a small presentation by a student showing off what you came up with.
 
+Part of the benefit of this class is to improve upon your own code. Therefore come to the first day of class with code you've written before that you want to improve. This will ensure you are invested in making your code better. If you don't have any code I will provide it but I strongly encourage you bring your own.
+
 We will not have a textbook, all the material can be found on the course [github](http://github.com/qalshidi/programming-practices-for-scientists). It will include further reading, and if you want more, don't be afraid to ask me through an email or after class 😊.
 
 At first it may be difficult to show your code but the further we go with this course the stronger your confidence in your readable code.
 
 This course is programming language agnostic, your code should be readable to any programmer, examples will be in Python because I believe I can make examples easier to read with it.
+
+Course Schedule and Assignments
+-------------------------------
+
+Assignments are due before the beginning of class since you will be working on those assignments with your groups as well. In the beginning of the semester we will work on the presentation schedule which will happen every week.
+
+Before the first week of class email me the your code in which you are planning to improve.
+
+Course Weeks:
+
+1. _Intro to version control_: You will learn how to use git to submit homework for the class. *(Learning Objectives 3, 4)*
+2. _The Zen of Coding_: We will learn how to get into a mindset a good coder must get into before tackling code. *(Learning Objective 1, 5)*
+3. _Writing Readable Code_: We will learn everything needed to write clear and readable code. *(Learning Objective 1, 2)*
+4. _Programming Patterns I_: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
+5. _Programming Patterns II_: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
+6. _Programming Anti-Patterns I_: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
+7. _Programming Anti-Patterns II_: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
+8. _Functional Programming I_: Functional programming is a coding style that helps you avoid buggy code. *(Learning Objective 4, 5)*
+9. _Functional Programming II_: Functional programming is a coding style that helps you avoid buggy code. *(Learning Objective 4, 5)*
+10. _Collaborative Coding I_: We will learn how to use git to code collaboratively. Merge code, create branches, submit pull-requests. *(Learning Objective 3)*
+11. _Collaborative Coding II_: We will learn how to use git to code collaboratively. Merge code, create branches, submit pull-requests. *(Learning Objective 3)*
+12. _Unit tests_: You will learn how to make your code resilient to failure from edits of others by making easy tests. *(Learning Objective 4)*
+13. _Final Project and Presentations I_: Show how your code has improved over time to your class mates.
+14. _Final Project and Presentations II_: Show how your code has improved over time to your class mates.
 
 Assessment & Grading
 --------------------
