@@ -56,20 +56,20 @@ Before the first week of class email me the your code in which you are planning 
 
 Course Weeks:
 
-1. _Intro to version control_: You will learn how to use git to submit homework for the class. *(Learning Objectives 3, 4)*
-2. _The Zen of Coding_: We will learn how to get into a mindset a good coder must get into before tackling code. *(Learning Objective 1, 5)*
-3. _Writing Readable Code_: We will learn everything needed to write clear and readable code. *(Learning Objective 1, 2)*
-4. _Programming Patterns I_: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
-5. _Programming Patterns II_: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
-6. _Programming Anti-Patterns I_: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
-7. _Programming Anti-Patterns II_: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
-8. _Functional Programming I_: Functional programming is a coding style that helps you avoid buggy code. *(Learning Objective 4, 5)*
-9. _Functional Programming II_: Functional programming is a coding style that helps you avoid buggy code. *(Learning Objective 4, 5)*
-10. _Collaborative Coding I_: We will learn how to use git to code collaboratively. Merge code, create branches, submit pull-requests. *(Learning Objective 3)*
-11. _Collaborative Coding II_: We will learn how to use git to code collaboratively. Merge code, create branches, submit pull-requests. *(Learning Objective 3)*
-12. _Unit tests_: You will learn how to make your code resilient to failure from edits of others by making easy tests. *(Learning Objective 4)*
-13. _Final Project and Presentations I_: Show how your code has improved over time to your class mates.
-14. _Final Project and Presentations II_: Show how your code has improved over time to your class mates.
+1. __Intro to version control__: You will learn how to use git to submit homework for the class. *(Learning Objectives 3, 4)*
+2. __The Zen of Coding__: We will learn how to get into a mindset a good coder must get into before tackling code. *(Learning Objective 1, 5)*
+3. __Writing Readable Code__: We will learn everything needed to write clear and readable code. *(Learning Objective 1, 2)*
+4. __Programming Patterns I__: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
+5. __Programming Patterns II__: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
+6. __Programming Anti-Patterns I__: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
+7. __Programming Anti-Patterns II__: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
+8. __Functional Programming I__: Functional programming is a coding style that helps you avoid buggy code. *(Learning Objective 4, 5)*
+9. __Functional Programming II__: Functional programming is a coding style that helps you avoid buggy code. *(Learning Objective 4, 5)*
+10. __Collaborative Coding I__: We will learn how to use git to code collaboratively. Merge code, create branches, submit pull-requests. *(Learning Objective 3)*
+11. __Collaborative Coding II__: We will learn how to use git to code collaboratively. Merge code, create branches, submit pull-requests. *(Learning Objective 3)*
+12. __Unit tests__: You will learn how to make your code resilient to failure from edits of others by making easy tests. *(Learning Objective 4)*
+13. __Final Project and Presentations I__: Show how your code has improved over time to your class mates.
+14. __Final Project and Presentations II__: Show how your code has improved over time to your class mates.
 
 Assessment & Grading
 --------------------
