@@ -85,11 +85,11 @@ This course is a 1 credit hour course and will only have a Pass/Fail grade. Nobo
 
 Passing Grade:
 
-	- 80% effort which includes.
-	- Attendance: 11/14 weeks.
-	- Homework: 11/14
-	- Presentation: 1/1 (You must present)
-	- Final project: 1/1 (You must show how you improved your own code in the last week).
+- 80% effort which includes.
+- Attendance: 11/14 weeks.
+- Homework: 11/14
+- Presentation: 1/1 (You must present)
+- Final project: 1/1 (You must show how you improved your own code in the last week).
 
 If this might cause a problem for you or you will need accomodations please see me as soon as possible. I am invested in your success and want to see you grow as a scientist and programmer.
 
