@@ -84,6 +84,7 @@ Every week you will have homework you will need to submit before class in prepar
 This course is a 1 credit hour course and will only have a Pass/Fail grade. Nobody is perfect and as long as you're able to achieve 80% effort you will pass, but you should strive for 100% anyway. This means that as this is a 14 week course try not to miss more than 3 classes. You will have one homework a week so try not to miss more than 3 homeworks. You will be expected to present at least once so make sure it will happen this semester.
 
 Passing Grade:
+
 	- 80% effort which includes.
 	- Attendance: 11/14 weeks.
 	- Homework: 11/14
