@@ -4,13 +4,14 @@ Programming Practices for Scientists
 Basic Information
 -----------------
 
+- Instructor: Qusai Al Shidi (call me Qusai): qusai@umich.edu
 - Course Meeting Times: Wednesdays 3pm-5pm
 - Location: Climate and Space Research Building--Auditorium
 - Contact Information: qusai@umich.edu
 - Office Hours: Fridays 1pm-3pm, CSRB 2128
 - Course Website: [http://github.com/qalshidi/programming-practices](http://github.com/qalshidi/programming-practices)
 
-This course is for intermediate coders that are in the sciences. Graduate or undergraduates welcomes. This is not a course to teach you how to code, but how to code *well*.
+This course is for intermediate coders that are in the sciences. Graduate or undergraduates welcomes. If you are a beginner coder I recommend taking a beginner class before taking this one. This class is to teach capable scientist programmers to code *well*.
 
 Since this is a programming course, please bring a laptop into class.
 
@@ -20,6 +21,8 @@ Course Description
 Have you ever been writing a bunch of code and then at some point it gets out of control and becomes hard to manage? Have you ever looked at code you wrote from a long time ago and don't remember what it's supposed to *do*? Do you have a piece of code that works and you're too afraid too touch it in case you might break it? We all have these fears and anxieties, this course will address them and help you become a better programmer.
 
 Programming is becoming an exceedingly important skill for us scientists. Most scientists only learn how to code be self-teaching programming in graduate school. This course will alleviate the difficulties you might face in that phase of your scientific career. The skills and knowledge gained from this class is widely applicable to any project you will be working on for the rest of your scientific future.
+
+You will be working with your peers and I in simple coding examples and learning disciplines and techniques to improve code. After all, programming is not writing code, but editing it!
 
 Learning Objectives
 -------------------
@@ -52,7 +55,7 @@ Course Schedule and Assignments
 
 Assignments are due before the beginning of class since you will be working on those assignments with your groups as well. In the beginning of the semester we will work on the presentation schedule which will happen every week.
 
-Before the first week of class email me the your code in which you are planning to improve.
+Before the first week of class email me the your code in which you are planning to improve. This can be anything, code you've written before or code for your research. We will create git repositories in the first week of class and we will track improvement over time.
 
 Course Weeks:
 
@@ -79,6 +82,13 @@ The class will be divided by a lecture portion and a presentation portation. Bot
 Every week you will have homework you will need to submit before class in preparation which will be outlined in course webpage. If you make sure to do this you will come to class prepared to understand how you can improve as a programmer.
 
 This course is a 1 credit hour course and will only have a Pass/Fail grade. Nobody is perfect and as long as you're able to achieve 80% effort you will pass, but you should strive for 100% anyway. This means that as this is a 14 week course try not to miss more than 3 classes. You will have one homework a week so try not to miss more than 3 homeworks. You will be expected to present at least once so make sure it will happen this semester.
+
+Passing Grade:
+	- 80% effort which includes.
+	- Attendance: 11/14 weeks.
+	- Homework: 11/14
+	- Presentation: 1/1 (You must present)
+	- Final project: 1/1 (You must show how you improved your own code in the last week).
 
 If this might cause a problem for you or you will need accomodations please see me as soon as possible. I am invested in your success and want to see you grow as a scientist and programmer.
 
