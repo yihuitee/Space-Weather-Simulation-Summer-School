@@ -1,4 +1,4 @@
-Programming Practices for Scientists
+Space Weather Programming Summer School
 ====================================
 
 Basic Information
