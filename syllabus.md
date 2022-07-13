@@ -5,15 +5,13 @@ Basic Information
 -----------------
 
 - Instructor: Qusai Al Shidi (call me Qusai): qusai@umich.edu
-- Course Meeting Times: Wednesdays 3pm-5pm
-- Location: Climate and Space Research Building--Auditorium
+- Course Meeting Times: 9am - 5pm
+- Location: 
 - Contact Information: qusai@umich.edu
-- Office Hours: Fridays 1pm-3pm, CSRB 2128
-- Course Website: [http://github.com/qalshidi/programming-practices](http://github.com/qalshidi/programming-practices)
+- Course Website:
+    [github.com/AetherModel/Space-Weather-Simulation-Summer-School](https://github.com/AetherModel/Space-Weather-Simulation-Summer-School)
 
-This course is for intermediate coders that are in the sciences. Graduate or undergraduates welcomes. If you are a beginner coder I recommend taking a beginner class before taking this one. This class is to teach capable scientist programmers to code *well*.
-
-Since this is a programming course, please bring a laptop into class.
+This course is for beginner to intermediate coders that are in the sciences. Graduate or undergraduates welcomes. This class is to teach capable scientist programmers to code *well*.
 
 Course Description
 ------------------
@@ -34,64 +32,38 @@ The aim of this course is to make you a strong and capable science programmer. B
 3. You will be able to collaborate and code as a team using git.
 4. You will be able to manage your code effectively.
 5. You will be able to avoid writing buggy code.
+6. You will learn how to code in Python effectively.
+7. You will learn how to code with scientific data.
 
 Remember those points while we are learning throughout the semester.
 
 Class Structure and Teaching Methods
 ------------------------------------
 
-The first half of the class will be an interactive lecture in which I will present concepts and ensure your understanding through clicker questions and discussion. The second half of the class will be working on your fellow classmates' code and a small presentation by a student showing off what you came up with.
+Throughout the class we will be using version control software, git, to write
+code together and review it by end of day. We are planning a workshop style
+summer school where you will be spending your time doing 'hands-on' programming
+and working with your peers. Let's have a good time!
 
-Part of the benefit of this class is to improve upon your own code. Therefore come to the first day of class with code you've written before that you want to improve. This will ensure you are invested in making your code better. If you don't have any code I will provide it but I strongly encourage you bring your own.
+At first it may be difficult to show your code but the further we go with this 
+course the stronger your confidence in your readable code.
 
-We will not have a textbook, all the material can be found on the course [github](http://github.com/qalshidi/programming-practices-for-scientists). It will include further reading, and if you want more, don't be afraid to ask me through an email or after class 😊.
-
-At first it may be difficult to show your code but the further we go with this course the stronger your confidence in your readable code.
-
-This course is programming language agnostic, your code should be readable to any programmer, examples will be in Python because I believe I can make examples easier to read with it.
+We will be using Python to teach the basics of coding.
 
 Course Schedule and Assignments
 -------------------------------
 
-Assignments are due before the beginning of class since you will be working on those assignments with your groups as well. In the beginning of the semester we will work on the presentation schedule which will happen every week.
+Course Days:
 
-Before the first week of class email me the your code in which you are planning to improve. This can be anything, code you've written before or code for your research. We will create git repositories in the first week of class and we will track improvement over time.
-
-Course Weeks:
-
-1. __Intro to version control__: You will learn how to use git to submit homework for the class. *(Learning Objectives 3, 4)*
-2. __The Zen of Coding__: We will learn how to get into a mindset a good coder must get into before tackling code. *(Learning Objective 1, 5)*
-3. __Writing Readable Code__: We will learn everything needed to write clear and readable code. *(Learning Objective 1, 2)*
-4. __Programming Patterns I__: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
-5. __Programming Patterns II__: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
-6. __Programming Anti-Patterns I__: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
-7. __Programming Anti-Patterns II__: Programming patterns are programming skills to use when coding. Anti-patterns are programming habits that you can avoid to code better. *(Learning objective 2, 4, 5)*
-8. __Functional Programming I__: Functional programming is a coding style that helps you avoid buggy code. *(Learning Objective 4, 5)*
-9. __Functional Programming II__: Functional programming is a coding style that helps you avoid buggy code. *(Learning Objective 4, 5)*
-10. __Collaborative Coding I__: We will learn how to use git to code collaboratively. Merge code, create branches, submit pull-requests. *(Learning Objective 3)*
-11. __Collaborative Coding II__: We will learn how to use git to code collaboratively. Merge code, create branches, submit pull-requests. *(Learning Objective 3)*
-12. __Unit tests__: You will learn how to make your code resilient to failure from edits of others by making easy tests. *(Learning Objective 4)*
-13. __Final Project and Presentations I__: Show how your code has improved over time to your class mates.
-14. __Final Project and Presentations II__: Show how your code has improved over time to your class mates.
-
-Assessment & Grading
---------------------
-
-The class will be divided by a lecture portion and a presentation portation. Both will include active participation in terms of clicker questions for the lectures. A student will present their homework to class and you are expected to comment and give your thoughts on how to improve this code. This is because making clear and readable code is part of our learning goals.
-
-Every week you will have homework you will need to submit before class in preparation which will be outlined in course webpage. If you make sure to do this you will come to class prepared to understand how you can improve as a programmer.
-
-This course is a 1 credit hour course and will only have a Pass/Fail grade. Nobody is perfect and as long as you're able to achieve 80% effort you will pass, but you should strive for 100% anyway. This means that as this is a 14 week course try not to miss more than 3 classes. You will have one homework a week so try not to miss more than 3 homeworks. You will be expected to present at least once so make sure it will happen this semester.
-
-Passing Grade:
-
-- 80% effort which includes.
-- Attendance: 11/14 weeks.
-- Homework: 11/14
-- Presentation: 1/1 (You must present)
-- Final project: 1/1 (You must show how you improved your own code in the last week).
-
-If this might cause a problem for you or you will need accomodations please see me as soon as possible. I am invested in your success and want to see you grow as a scientist and programmer.
+1. __Intro to version control and the terminal__: You will set up a github
+   account and use git to learn some basic Python. *(Learning Objectives 3, 4, 6)*
+2. __Coding using scientific data__: We will be working with scientific data
+   from various sources. *(Learning Objective 1, 5, 7)*
+3. __Using python numerical tools__: We will be learning how to use `numpy`,
+   `matplotlib` and `Pandas`. *(Learning Objective 1, 2)*
+4. __Making more complicated plots and animations__: We will learn to make animations and plots that are a little more complicated *(Learning objective 4, 5, 7)*
+5. __Final Project__: We will end our week with a project for personalized
+   groups to manage and plot scientific data *(Learning objective 1-7)*
 
 How to Succeed in this Course
 -----------------------------
@@ -104,14 +76,12 @@ Collaboration is encouraged since learning can be enhanced by sharing that exper
 
 ### Digital Etiquette
 
-Try to use your laptops only for course related work like coding in class or taking notes. Make sure you understand how to present with your laptop before coming to class, if you need help please let me know. You may take notes in a notebook if you are more comfortable handwriting your notes. Remember that the slides will be available after every class so spending too much time note taking might impede you from engaging fully during class time.
+Try to use your pc only for course related work like coding in class or taking notes. Make sure you understand how to present with your laptop before coming to class, if you need help please let me know. You may take notes in a notebook if you are more comfortable handwriting your notes. Remember that the slides will be available after every class so spending too much time note taking might impede you from engaging fully during class time.
 
 ### Accommodations for Students with Disabilities
 
-If you think you need an accommodation for a disability, please let me know at your earliest convenience. Some aspects of this course, the assignments, the in-class activities, and the way the course is usually taught may be modified to facilitate your participation and progress. As soon as you make me aware of your needs, we can work with the Services for Students with Disabilities (SSD) office to help us determine appropriate academic accommodations. SSD (734-763-3000; [http://ssd.umich.edu](http://ssd.umich.edu)) typically recommends accommodations through a Verified Individualized Services and Accommodations (VISA) form. Any information you provide is private and confidential and will be treated as such.
+If you think you need an accommodation for a disability, please let me know at your earliest convenience. Some aspects of this course, the assignments, the in-class activities, and the way the course is usually taught may be modified to facilitate your participation and progress. As soon as you make me aware of your needs, we can work with the Services for Students with Disabilities (SSD) office to help us determine appropriate academic accommodations.
 
 ### Student Sexual Misconduct Policy
 
 Our school is committed to fostering a safe, productive learning environment. Title IX and our school policy prohibit discrimination on the basis of sex, which regards sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking. We understand that sexual violence can undermine students’ academic success and we encourage students who have experienced some form of sexual misconduct to talk to someone about their experience, so they can get the support they need.
-
-Confidential support and academic advocacy can be found with the Sexual Assault Prevention and Awareness Center (SAPAC) on their 24-hour crisis line, 734-936-3333 and at http://sapac.umich.edu/. Alleged violations can be non-confidentially reported to the Office for Institutional Equity (OIE) at institutional.equity@umich.edu. Reports to law enforcement can be made to University of Michigan Police Department at 734-763-3434.
