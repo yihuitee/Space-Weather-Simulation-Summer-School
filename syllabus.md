@@ -6,7 +6,7 @@ Basic Information
 
 - Instructor: Qusai Al Shidi (call me Qusai): qusai@umich.edu
 - Course Meeting Times: 9am - 5pm
-- Location: 
+- Location: Engineering Center ECCE-141
 - Contact Information: qusai@umich.edu
 - Course Website:
     [github.com/AetherModel/Space-Weather-Simulation-Summer-School](https://github.com/AetherModel/Space-Weather-Simulation-Summer-School)
@@ -27,6 +27,8 @@ Learning Objectives
 
 The aim of this course is to make you a strong and capable science programmer. By the end of this course:
 
+## Week 1
+
 1. You will develop skills to write clear and readable code.
 2. You will will be able to employ programming patterns to your code like adding docstrings.
 3. You will be able to collaborate and code as a team using git.
@@ -35,7 +37,14 @@ The aim of this course is to make you a strong and capable science programmer. B
 6. You will learn how to code in Python effectively.
 7. You will learn how to code with scientific data.
 
-Remember those points while we are learning throughout the semester.
+## Week 2
+
+8. You will learn the fundamentals of writing simulations.
+9. You will learn how to code differential equation solvers.
+10. You will learn the different schemes involved in simulations.
+11. You will develop the skills to write your own space weather simulation.
+
+Remember those points while we are learning throughout the weeks.
 
 Class Structure and Teaching Methods
 ------------------------------------
@@ -55,33 +64,73 @@ Course Schedule and Assignments
 
 Course Days:
 
-1. __Intro to version control and the terminal__: You will set up a github
+## Week 1
+
+- __Monday: Intro to version control and the terminal__: You will set up a github
    account and use git to learn some basic Python. *(Learning Objectives 3, 4, 6)*
-2. __Coding using scientific data__: We will be working with scientific data
+- __Tuesday: Coding using scientific data__: We will be working with scientific data
    from various sources. *(Learning Objective 1, 5, 7)*
-3. __Using python numerical tools__: We will be learning how to use `numpy`,
+- __Wednesday: Using python numerical tools__: We will be learning how to use `numpy`,
    `matplotlib` and `Pandas`. *(Learning Objective 1, 2)*
-4. __Making more complicated plots and animations__: We will learn to make animations and plots that are a little more complicated *(Learning objective 4, 5, 7)*
-5. __Final Project__: We will end our week with a project for personalized
+- __Thursday: Making more complicated plots and animations__: We will learn to
+    make animations and plots that are a little more complicated
+    *(Learning objective 4, 5, 7)*
+- __Friday: Final Project__: We will end our week with a project for personalized
    groups to manage and plot scientific data *(Learning objective 1-7)*
+
+## Week 2
+
+- __Monday: Intro to version control and ODEs__: You will set up a github
+   account and use git. *(Learning Objectives 3, 4, 6, 8)*
+- __Tuesday: Intro to Chemistry, Timestepping__: You will learn chemistry
+    schemes and different time stepping schemes. *(Learning objectives 9, 11)*
+- __Wednesday: Discretization, grids and radiative transfer__: You will learn to
+    have a gridded solution as well as learn finite volume methods. *(Learning
+    objectives 9, 10)*
+- __Thursday: Julia programming language and GITM__: You will be introduced to
+    Julia and be introduced to space weather models currently used in the field.
+    *(Learning objectives 8, 10)*
+- __Friday: Final Project__: Develop your own 1D Ionosphere model. *(Learning
+    objectives 11)*
 
 How to Succeed in this Course
 -----------------------------
 
-Please start by sending me a short email introducing yourself to me. Things to inlude are your name, pronoun(s) and interests. This will help me cater my class time to your personalities.
+Please start by sending me a short email introducing yourself to me. Things to 
+inlude are your name, pronoun(s) and interests. This will help me cater my 
+class time to your personalities.
 
 ### Collaboration
 
-Collaboration is encouraged since learning can be enhanced by sharing that experience with others. Please realize you are expected to produce your own work by the end of the day so do not copy and paste code and the idea is to understand what your code is doing which should be the end goal.
+Collaboration is encouraged since learning can be enhanced by sharing that 
+experience with others. Please realize you are expected to produce your own 
+work by the end of the day so do not copy and paste code and the idea is to 
+understand what your code is doing which should be the end goal.
 
 ### Digital Etiquette
 
-Try to use your pc only for course related work like coding in class or taking notes. Make sure you understand how to present with your laptop before coming to class, if you need help please let me know. You may take notes in a notebook if you are more comfortable handwriting your notes. Remember that the slides will be available after every class so spending too much time note taking might impede you from engaging fully during class time.
+Try to use your pc only for course related work like coding in class or taking 
+notes. Make sure you understand how to present with your laptop before coming 
+to class, if you need help please let me know. You may take notes in a 
+notebook if you are more comfortable handwriting your notes. Remember that the 
+slides will be available after every class so spending too much time note 
+taking might impede you from engaging fully during class time.
 
 ### Accommodations for Students with Disabilities
 
-If you think you need an accommodation for a disability, please let me know at your earliest convenience. Some aspects of this course, the assignments, the in-class activities, and the way the course is usually taught may be modified to facilitate your participation and progress. As soon as you make me aware of your needs, we can work with the Services for Students with Disabilities (SSD) office to help us determine appropriate academic accommodations.
+If you think you need an accommodation for a disability, please let me know at 
+your earliest convenience. Some aspects of this course, the assignments, the 
+in-class activities, and the way the course is usually taught may be modified 
+to facilitate your participation and progress. As soon as you make me aware of 
+your needs, we can work with the Services for Students with Disabilities (SSD) 
+office to help us determine appropriate academic accommodations.
 
 ### Student Sexual Misconduct Policy
 
-Our school is committed to fostering a safe, productive learning environment. Title IX and our school policy prohibit discrimination on the basis of sex, which regards sexual misconduct — including harassment, domestic and dating violence, sexual assault, and stalking. We understand that sexual violence can undermine students’ academic success and we encourage students who have experienced some form of sexual misconduct to talk to someone about their experience, so they can get the support they need.
+Our school is committed to fostering a safe, productive learning environment. 
+Title IX and our school policy prohibit discrimination on the basis of sex, 
+which regards sexual misconduct — including harassment, domestic and dating 
+violence, sexual assault, and stalking. We understand that sexual violence can 
+undermine students’ academic success and we encourage students who have 
+experienced some form of sexual misconduct to talk to someone about their 
+experience, so they can get the support they need.
