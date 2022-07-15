@@ -1,12 +1,12 @@
 ---
-title: Space 477: Python: I
+title: Python I
 description: First Python lecture
 author: Qusai Al Shidi
 keywords: space-weather,space,python
 math: mathjax
 ---
 
-Qusai Al Shidi | qusai@umich.edu | CSRB 2118
+Qusai Al Shidi | qusai@umich.edu
 
 # Space 477: Python: I
 
@@ -226,20 +226,24 @@ $$
     *lists*) `sum([1, 2, 3]) == 6  # True`
 - Can you use list comprehension for this?
 
+`cos_approx.py`
 ```python
 from math import factorial  # now you can use factorial()
 from math import pi  # now you can use pi
 
-def cos_approx(x):
+def cos_approx(x, accuracy=10):
     # Get started
 
-# Tests
-print("cos(0) = ", cos_approx(0))
-print("cos(pi) = ", cos_approx(pi))
-print("cos(2*pi) = ", cos_approx(2*pi))
 ```
 
 ------------
 
-A solution will be uploaded.
+# Unit tests
 
+# Tests
+
+- use `assert <conditional (returns True or False)>, "Error Message"`
+
+```python
+assert cos_approx(0) < 1+1.e-2 and cos_approx(0) > 1-1.e-2, "cos(0) is not 1"
+```

@@ -1,16 +1,77 @@
 ---
-title: Space 477: Python: III
+title: Python: III
 description: First Python lecture
 author: Qusai Al Shidi
 keywords: space-weather,space,python
 math: mathjax
 ---
 
-Qusai Al Shidi | qusai@umich.edu | CSRB 2118
+Qusai Al Shidi | qusai@umich.edu 
 
-# Space 477: Python: III
+# Python: III
+
+-----------
+
+# One more basic type!
 
 ----------
+
+## Dictionaries
+
+- A dictionary is an *iterable* with conjoining *keys* and *values* as the elements (*items*).
+- Useful to encapsulate data.
+
+```python
+solar_system = {'planets': ('Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter',
+                            'Saturn', 'Uranus', 'Neptune'),
+                'star': 'Sol',
+                'dwarf_planets': ('Pluto', )
+               }
+
+solar_system['dwarf_planets']  # ('Pluto')
+planets = [planet for planet in solar_system['planets']]
+# or
+planets = list(solar_system['planets'])
+print(sorted(planets))  # Alphabet sort
+```
+
+---------------
+
+# Iterables
+
+---------------
+
+- Iterables allow you to iterate through each element.
+- We've already been dealing with them! Examples:
+    - Lists
+    - Tuples
+    - Arrays
+    - Dictionaries
+
+----------
+
+To iterate we use `for` syntax:
+
+```python
+
+for key in solar_system.keys():
+    print(key)
+
+for value in solar_system.values():
+    print(element)
+
+for key, value in solar_system.items():
+    print(key, value)
+
+```
+
+---------------
+
+## Don't use for loops to do basic linear algebra!
+
+- We have `numpy` and arrays, matrices..etc. to do that for us :).
+
+---------------
 
 # Time to get comfortable with the terminal
 
@@ -38,37 +99,6 @@ start_time = datetime(1990, 10, 2)
 end_time = datetime(1990, 10, 3)
 data = get_omni_data(start_time, end_time)  # returns a dictionary
 data.keys()
-```
-
-----------
-
-# Now for something more relevant
-
-----------
-
-- Many of you will need a way to calculate, specifically,
-    *Schmidt semi-normalized Legendre polynomials* $P_l^m$.
-- `numpy` includes regular Legendre polynomials.
-
-```bash
-$ pip install pyshtools
-```
-
-```python
-from pyshtools.legendre import legendre_lm
-legendre_lm(l=0, m=0, z=0, 'schmidt')
-```
-
------------
-
-# More terminal things
-
-In your anaconda project directory, create a new directory for a project.
-
-```bash
-$ mkdir 3d_plot
-$ cd 3d_plot
-3dplot/$ touch 3d_plot.py
 ```
 
 -----------
@@ -120,15 +150,3 @@ phi = np.linspace(0, 2*np.pi)
 x, y, z = spherical_cartesian(r, theta, phi)
 axes.plot(x, y, z)
 ```
-
------------
-
-For your project most of you will be asked to solve equations like this.
-
-$$
-B(r, \theta, \phi) = \sum \sum a_n^m P_n^m (\cos \theta)
-$$
-
-----------
-
-# Have you started your project? Any coding questions at all?

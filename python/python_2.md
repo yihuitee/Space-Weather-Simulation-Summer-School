@@ -1,5 +1,5 @@
 ---
-title: Space 477: Python: II
+title: Python: II
 description: First Python lecture
 author: Qusai Al Shidi
 keywords: space-weather,space,python
@@ -8,32 +8,7 @@ math: mathjax
 
 Qusai Al Shidi | qusai@umich.edu | CSRB 2118
 
-# Space 477: Python: II
-
-----------
-
-# One more basic type!
-
-----------
-
-## Dictionaries
-
-- A dictionary is an *iterable* with conjoining *keys* and *values* as the elements (*items*).
-- Useful to encapsulate data.
-
-```python
-solar_system = {'planets': ('Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter',
-                            'Saturn', 'Uranus', 'Neptune'),
-                'star': 'Sol',
-                'dwarf_planets': ('Pluto', )
-               }
-
-solar_system['dwarf_planets']  # ('Pluto')
-planets = [planet for planet in solar_system['planets']]
-# or
-planets = list(solar_system['planets'])
-print(sorted(planets))  # Alphabet sort
-```
+# Python: II
 
 ----------
 
@@ -95,63 +70,3 @@ plt.ylabel(r'$e^x$')
 plt.title('Exponential function')
 plt.show()  # shows plot, can be saved
 ```
-
-----------
-
-# real world example
-
-----------
-
-## What was the SYM/H (Dst) like on your birthday?
-
-- Go to [NASA OMNIWeb](https://omniweb.gsfc.nasa.gov/).
-- Download high resolution SYM/H data for the day of your birthday.
-- Use `np.genfromtxt()` to read that data.
-- Create a new folder for your plotting code. `birthday_storm.py`
-    - Now is better than never. 🧘
-- Plot that data.
-
-----------
-
-# 😯😯😯 __SURPRISE__ 😯😯😯. Revise each others code.
-
-----------
-
-- Is it *readable*?
-    - Explicit is better than implicit. 🧘
-    - Readability counts. 🧘
-- Are there comments explaining code?
-    - Now is better than never. 🧘
-- Did you make sure to label the axes?
-    - The reviewer is coming for you. 😱
-
-----------
-
-# okay we need a better time axis
-
-----------
-
-```
-from datetime import timedelta
-
-birth_day = (1990, 10, 2)
-omni_format = ('year', 'doy', 'hour', 'min', 'sym_h')  # from the format file
-data = np.genfromtxt('im_not_old.lst', names=omni_format)
-plt.plot(data['sym_h'])
-plt.xlabel('Minute of the day')
-plt.ylabel('SYM/H [nT]')
-plt.title('SYM/H on ' + str(birth_day))
-```
-
-------------
-
-Let's find the cross polar cap potential (CPCP) on your birthday using
-[Ridley & Kihn (2004)](http://dx.doi.org/10.1029/2003GL019113).
-
-$$
-\Phi = 29.28 - 3.31 sin(T+1.49) + 17.81 PCI
-$$
-
-- Make a function that takes the PCI as input and CPCP as output.
-- Plot the function.
-- To get you started, normalize to *day of year* as opposed to *month*.
