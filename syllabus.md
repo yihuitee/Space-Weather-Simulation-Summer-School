@@ -4,7 +4,15 @@ Space Weather Programming Summer School
 Basic Information
 -----------------
 
-- Instructor: Qusai Al Shidi (call me Qusai): qusai@umich.edu
+- Instructor: 
+    - Qusai Al Shidi (call me Qusai): qusai@umich.edu
+    - Flemming Holtorf
+    - Aaron Ridley
+    - Simone Servadio
+    - Peng Mun Siew
+    - Eric Sutton
+    - Jordi Vila Perez
+    - Chen Wu
 - Course Meeting Times: 9am - 5pm
 - Location: Engineering Center ECCE-141
 - Contact Information: qusai@umich.edu
@@ -75,22 +83,22 @@ Course Days:
 - __Thursday: Making more complicated plots and animations__: We will learn to
     make animations and plots that are a little more complicated
     *(Learning objective 4, 5, 7)*
-- __Friday: Final Project__: We will end our week with a project for personalized
+- __Friday: Final project__: We will end our week with a project for personalized
    groups to manage and plot scientific data *(Learning objective 1-7)*
 
 ## Week 2
 
 - __Monday: Intro to version control and ODEs__: You will set up a github
    account and use git. *(Learning Objectives 3, 4, 6, 8)*
-- __Tuesday: Intro to Chemistry, Timestepping__: You will learn chemistry
-    schemes and different time stepping schemes. *(Learning objectives 9, 11)*
-- __Wednesday: Discretization, grids and radiative transfer__: You will learn to
-    have a gridded solution as well as learn finite volume methods. *(Learning
+- __Tuesday: Intro to chemistry, timestepping and discretization of diffusive terms__: You will learn chemistry
+    schemes and different time stepping schemes. Moreover, the discretization of Laplace/Poisson equations. *(Learning objectives 9, 11)*
+- __Wednesday: Radiative transfer and advective schemes__: You will learn to
+    how to model radiative source terms and the discretization of convection terms. *(Learning
     objectives 9, 10)*
 - __Thursday: Julia programming language and GITM__: You will be introduced to
     Julia and be introduced to space weather models currently used in the field.
     *(Learning objectives 8, 10)*
-- __Friday: Final Project__: Develop your own 1D Ionosphere model. *(Learning
+- __Friday: Final project__: Develop your own 1D Ionosphere model. *(Learning
     objectives 11)*
 
 How to Succeed in this Course
