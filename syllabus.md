@@ -18,7 +18,7 @@ Course Description
 
 Have you ever been writing a bunch of code and then at some point it gets out of control and becomes hard to manage? Have you ever looked at code you wrote from a long time ago and don't remember what it's supposed to *do*? Do you have a piece of code that works and you're too afraid too touch it in case you might break it? We all have these fears and anxieties, this course will address them and help you become a better programmer.
 
-Programming is becoming an exceedingly important skill for us scientists. Most scientists only learn how to code be self-teaching programming in graduate school. This course will alleviate the difficulties you might face in that phase of your scientific career. The skills and knowledge gained from this class is widely applicable to any project you will be working on for the rest of your scientific future.
+Programming is becoming an exceedingly important skill for us scientists. Most scientists only learn how to code by self-teaching programming in graduate school. This course will alleviate the difficulties you might face in that phase of your scientific career. The skills and knowledge gained from this class is widely applicable to any project you will be working on for the rest of your scientific future.
 
 You will be working with your peers and I in simple coding examples and learning disciplines and techniques to improve code. After all, programming is not writing code, but editing it!
 
