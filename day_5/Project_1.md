@@ -1,4 +1,4 @@
-# Title: Group Project 1: Analyze the differences in predicted densities by JB2008 and TIE-GCM as a function of dst
+# Group Project 1: Analyze the differences in predicted densities by JB2008 and TIE-GCM as a function of dst
 Description: In the project, the students will work together to analyze and visualize the difference in predicted densities by the JB2008 density model and the TIE-GCM density model as a function of the disturbance storm time (dst) index. 
 
 
