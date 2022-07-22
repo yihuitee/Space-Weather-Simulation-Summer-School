@@ -18,4 +18,4 @@ Study the storm activity of the whole year. Identify: minimum and maximum storm 
 Make the distribution of the minimum SML (AL) index that is identified for each event in different seasons. Then, try comparing the AL minimum (representing the substorm intensity) in different seasons. Create a function that asks for a specific season and dyspalys the minimum SML.
 
 ## Task 6: Create your own tasks
-Now that you worked with the data, which function do you think is needed? Which representation, according to you, gives the best represntation for the number of storms? In the same way, you can repeat Task 1-2-3 for different years and give a visulaization on how storms are changing in the long run. You are limited by your imagination, have fun!
+Now that you worked with the data, which function do you think is needed? Which representation, according to you, gives the best represntation for the number of storms? In the same way, you can repeat Task 1-2-3 for different years and give a visualization on how storms are changing in the long run. You are limited by your imagination, have fun!
