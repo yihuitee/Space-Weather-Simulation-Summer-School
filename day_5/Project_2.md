@@ -14,8 +14,8 @@ First, keep the period of time fixed at the moment of highest dst, then add the 
 ## Task 4: Plot the differences between the predicted densities at given altitude during the selected period of high space activity (dst)
 create a function that plots the differences between the two predicted densities at a given altitude among well-selected options: [100:50:500]. Subsequently, modify the function such that the user can decide to plot the absolute percentage difference between the two models. *Note: absolute percentage difference = $\dfrac {abs(\rho_{TIE-GCM} - \rho_{JB2008})}{\rho_{TIE-GCM}}$
 
-## Task 5: Create your ouwn tasks
-Now that you worked with the data, which function do you think is needed? Which representation, according to you, gives tehe best understanding of the density behaviour during a storm? in the same way, which visualization gives shows the main difference between the 2 density models? Go back to the assigment from previous days and get inspired: look at the solution posted and look for missing inputs, afterall, this is what being a researcer is. 
+## Task 5: Create your own tasks
+Now that you worked with the data, which function do you think is needed? Which representation, according to you, gives the best understanding of the density behaviour during a storm? In the same way, which visualization shows the main difference between the 2 density models? Maybe a video (Qusai class on day 4) is the best solution. Go back to the assigments from previous days and get inspired: look at the solution posted and look for missing inputs, afterall, this is what being a researcer is. 
 
 
 
