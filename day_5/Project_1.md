@@ -12,14 +12,14 @@ After identifying the time period of interest, plot the densities predicted by J
 ## Task 3: Plot the differences between the predicted densities at 450 km during the selected period of high space activity (dst)
 Then, plot the differences between the two predicted densities. Subsequently, plot the absolute percentage difference between the two models. *Note: absolute percentage difference = $\dfrac {abs(\rho_{TIE-GCM} - \rho_{JB2008})}{\rho_{TIE-GCM}}$
 
-## Task 3: Plot the hourly mean absolute percentage difference and the hourly dst index.
+## Task 4: Plot the hourly mean absolute percentage difference and the hourly dst index.
 Calculate the hourly mean absolute percentage difference and plot this in the same plot with the hourly dst index. Is there any correlation between the dst index and the hourly mean absolute percentage difference?
 
-## Task 4: Create a function to be run from the terminal that can calculate the hourly mean absolute percentage difference for any arbitrary altitude over the same time period
+## Task 5: Create a function to be run from the terminal that can calculate the hourly mean absolute percentage difference for any arbitrary altitude over the same time period
 The function needs to take in an *altitude (float)* as an argument and save the hourly mean absolute percentage difference over the same time period. 
 
-## Task 5: Plot the mean absolute percentage difference for multiple altitudes
+## Task 6: Plot the mean absolute percentage difference for multiple altitudes
 Run the function with the following altitudes [100, 200, 250, 300, 350, 400, 450] and plot the mean absolute percentage difference for these altitudes. Is there any noticeable trend in the plots?
 
-## Task 6: Create a function to be run from the terminal that can calculate the hourly mean absolute percentage difference for any arbitrary altitude and over an arbitrary time period
+## Task 7: Create a function to be run from the terminal that can calculate the hourly mean absolute percentage difference for any arbitrary altitude and over an arbitrary time period
 Now, let's extend our previously created function such that it can take in 3 arguments *altitude (float), start day of year (int), start hour (int), end day of year (int), end hour (int)*, save the hourly mean absolute percentage difference over the provided time period. *Note: the day of year (doy) system ignores months and numbers each day of the year consecutively.
