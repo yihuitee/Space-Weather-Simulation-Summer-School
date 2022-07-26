@@ -42,7 +42,7 @@ if __name__ == '__main__':  # main code block
     n_n2_bc = 1.7e19 # /m3
 
     # read in EUV file (step 1):
-    euv_file = 'euv_37.csv'
+    euv_file = '../euv_37.csv'
     euv_info = read_euv_csv_file(euv_file)
     print('short : ', euv_info['short'])
     print('ocross : ', euv_info['ocross'])
