@@ -57,7 +57,7 @@ def integrate(f, x0, tspan, h, step):
         ts.append(t)
     return trajectory, ts
 
-def adaptive_explicit_RK_stepper(x,t,f,h,a,b,c,b_control):
+def adaptive_explicit_RK_stepper(f,x,t,h,a,b,c,b_control):
     """
         Implementation of generic explicit Runge-Kutta update for explicit ODEs
         
