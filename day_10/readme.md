@@ -29,9 +29,9 @@ what is seen.
 Solve the chemistry equation using an implicit method
 
 $$
-\frac{\partial N_i}{\partial t} + \frac{V \cdot N_i}{z} = Q_{EUV,i} - R \times M \times N_i
+\frac{\partial N_i}{\partial t} + V\frac{\partial N_i}{\partial z} = S_i - L_i 
 $$
 
-Where N is the number density, V=-10m/s, R is the reaction rate, M is the
-density of species it is reacting with. Make an animation of the results and 
-explain what is happening.
+Where N_i is the number density of species i (O^+, O_2^+, N_2^+, NO^2), V=-10m/s, S_i are the sources (one of which will be EUV), and L_i are the losses. You will need to include electrons as a species, but you don't have to advect it or solve for the chemistry for it, since e- = \sum N_i.
+
+You can get the ionization rates from the euv_37.csv file.  The chemical reactions and the reaction rates are specified in the Chemistry lecture towards the end.  Note that this includes He^+ and H^+ and others, which you can ignore.
