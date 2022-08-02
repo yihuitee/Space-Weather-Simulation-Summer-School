@@ -132,6 +132,7 @@ def animate(i):
     plt.plot(x,u)
     myAnimation.set_data(x, u)
     return myAnimation,
+    plt.title ('a=  %g' % Dx(i))
 
 anim = animation.FuncAnimation(fig,animate,frames=range(1,nt),blit=True,repeat=False)
 

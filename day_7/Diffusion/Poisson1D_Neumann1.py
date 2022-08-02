@@ -21,7 +21,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation    #We have to load this
 from math import pi
-%matplotlib qt
+#%matplotlib qt
 plt.close()
 
 "Number of points"
@@ -64,6 +64,7 @@ plt.legend(fontsize=12,loc='upper left')
 plt.grid()
 plt.xlabel("x",fontsize=16)
 plt.ylabel("u",fontsize=16)
+plt.title ('a=  %g' % Dx)
 
 "Compute error"
 error = np.max(np.abs(u-ua))
